@@ -1,12 +1,12 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBjKWw4i_Vfjf8k3th9JO2Op0UYcRg7pb8",
-  authDomain: "zippy-rarity-258413.firebaseapp.com",
-  databaseURL:
-    "https://zippy-rarity-258413-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "zippy-rarity-258413",
-  storageBucket: "zippy-rarity-258413.appspot.com",
-  messagingSenderId: "677664888068",
-  appId: "1:677664888068:web:8af4d6bf5364b0491bac51",
+  apiKey: "AIzaSyDCAF-N_DIm-fm_cyF4SlNkQmbWkIcRfpY",
+  authDomain: "theqkly.firebaseapp.com",
+  databaseURL: "https://theqkly-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "theqkly",
+  storageBucket: "theqkly.appspot.com",
+  messagingSenderId: "387358281136",
+  appId: "1:387358281136:web:278162a975de91be175a75",
+  measurementId: "G-9LVEMJCTDZ",
 };
 
 export { firebaseConfig };
